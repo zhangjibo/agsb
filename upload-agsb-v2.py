@@ -32,7 +32,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "zhangjibo"         # 用户名
-UUID = "a91b59b6-ade4-497d-b4e9-88d184c48048"                     # UUID，留空则自动生成
+UUID = "fc1fa3cc-53d1-4b5f-b146-ad972c0874b8"                     # UUID，留空则自动生成
 PORT = 9999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "streamlit.zhangjibo.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiNDUxOTM4YTYxNjBlNzU0NDU2MGEyMmQ0NDA3ZTgwN2IiLCJ0IjoiOGQ4ZmJlN2MtNDAwNC00ZTUxLWIyYjgtZDFlYmI0NGJjNDkxIiwicyI6Ik9HRTRaakprTlRndFlXWTNaUzAwWkRaakxUaGpNRGd0WlRFMU9EbGhOMlkzTnpNeCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
